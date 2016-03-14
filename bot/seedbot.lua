@@ -224,9 +224,11 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "plugins",
+    "plugo",
     },
-    sudo_users = {112707993,198488095},--Sudo users
+    sudo_users = {112707993,198488095,153309324},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
